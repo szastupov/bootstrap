@@ -1,4 +1,6 @@
-// Bootstrap overrides
-//
-// Copy variables from `_variables.scss` to this file to override default values
-// without modifying source files.
+$enable-transitions:        true;
+
+$brand-primary:             #f0941c;
+$brand-inverse:             #0f6be3;
+$brand-danger:              #e15325;
+$body-color:                #505455;
