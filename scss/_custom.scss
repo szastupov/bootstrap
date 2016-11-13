@@ -4,3 +4,5 @@ $brand-primary:             #f0941c;
 $brand-inverse:             #0f6be3;
 $brand-danger:              #e15325;
 $body-color:                #505455;
+
+$input-border-focus:        lighten($brand-primary, 20%);
