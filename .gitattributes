@@ -14,3 +14,4 @@
 
 bootstrap.css linguist-vendored=false
 bootstrap.js linguist-vendored=false
+*.css -diff
